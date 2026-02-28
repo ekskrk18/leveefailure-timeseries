@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+h5py
+earthaccess
+pyproj
+pytz
+scikit-learn
